@@ -53,7 +53,7 @@ I focus on **optimizing backend systems**, building **scalable architectures**, 
 - 🌱 Currently exploring **GoLang** and **System Design**  
 - 🧰 Skilled in **MERN Stack**, **TypeScript**, and **Cloud Deployments**  
 - 📫 Reach me at: **soumya2k00@gmail.com**  
-- 🌐 Portfolio: [soumyaranjan07.vercel.app](https://soumyaranjan07.vercel.app)  
+- 🌐 Portfolio: [Soumyaranjan Rout](https://soumya-portfolio.pages.dev/)
 - 🤝 Connect with me:  
   [LinkedIn](https://linkedin.com/in/your-link) • [GitHub](https://github.com/soumya7681) 
 
