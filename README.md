@@ -45,7 +45,7 @@
 
 ## 🧠 About Me  
 
-🚀 I’m a **Full-Stack Developer** with **2.5+ years of experience**, specializing in the **MERN stack** and **AI-driven systems**.  
+🚀 I’m a **Full-Stack Developer** with **3.5+ years of experience**, specializing in the **MERN stack** and **AI-driven systems**.  
 I focus on **optimizing backend systems**, building **scalable architectures**, and integrating **next-gen AI** like **RAG**, **Agentic AI**, and **CAG Architecture**.
 
 - 👨‍🎓 Graduated in **2022**  
