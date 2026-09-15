@@ -52,7 +52,7 @@ I focus on **optimizing backend systems**, building **scalable architectures**, 
 - 💬 Ask me about **Software Development** and **AI Integration**  
 - 🌱 Currently exploring **GoLang** and **System Design**  
 - 🧰 Skilled in **MERN Stack**, **TypeScript**, and **Cloud Deployments**  
-- 📫 Reach me at: **soumya2k00@gmail.com**  
+- 📫 Reach me at: **2k00@gmail.com**  
 - 🌐 Portfolio: [Soumyaranjan Rout](https://soumya-portfolio.pages.dev/)
 - 🤝 Connect with me:  
   [LinkedIn](https://linkedin.com/in/your-link) • [GitHub](https://github.com/soumya7681) 
